@@ -1,5 +1,5 @@
 <!-- Bootstrap CSS -->
-<link rel="stylesheet" href="/tolehoai/backend/assets/vendor/boostrap/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="/cusc_lap_trinh_php/backend/assets/vendor/boostrap/css/bootstrap.min.css" type="text/css" />
 <!-- Font awesome -->
 <!-- <link rel="stylesheet" href="/tolehoai/backend/assets/vendor/font-awesome/css/font-awesome.min.css" type="text/css" /> -->
 
